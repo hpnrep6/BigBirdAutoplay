@@ -1,9 +1,10 @@
-.main canvas{
-    margin-right: auto;
-    margin-left: auto;
-    display: block;
+body {
+    border-style: none;
 }
 
-body {
-    background-color: rgb(0,20,40);
+.main {
+    border-style: none;
+    position: absolute;
+    top: 0px;
+    left: 0px;
 }
